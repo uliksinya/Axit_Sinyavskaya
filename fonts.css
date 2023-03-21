@@ -1,0 +1,476 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url(./fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: 'Open Sans Medium';
+    src: url(./fonts/OpenSans-Medium.ttf);
+}
+
+h5{
+    font-family: 'Open Sans',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url(./fonts/Raleway-Medium.ttf);
+}
+@font-face {
+    font-family: 'Raleway Regular';
+    src: url(./fonts/Raleway-Regular.ttf);
+}
+@font-face {
+    font-family: 'Raleway Bold';
+    src: url(./fonts/Raleway-Bold.ttf);
+}
+h1{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFFFFF;
+}
+h4{
+    font-family:'Raleway Regular';    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+ .first_page_content_button h4{
+    font-family: 'Open Sans',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top:16px; /*сделать нормально*/
+
+}
+.first_page_registration_header h2{
+    font-family:'Open Sans Medium';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #333333;
+    
+   
+}
+.pink{
+    color:#EC7979;
+}
+ h5{
+    color: #333333;    
+    text-align: left;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;   
+    color: #BDBDBD;
+}
+.first_page_registration_getstarted h5{
+    align-items: center;
+    text-align: center;
+    padding-top:23px;
+    color:white;
+}
+.content_header h4{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px; 
+    color: #333333;
+}
+.content_texst h5{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    align-items: center;
+    color: #86878B;
+
+}
+ .header_tab3 h4{
+    box-sizing: border-box;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;    
+    color: #333333;  
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    font-family: 'Open Sans Medium';
+}
+.header_tab2 h4{
+    box-sizing: border-box;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;    
+    color: #333333;  
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    font-family: 'Open Sans Medium';
+}
+.header_tab1 h4{
+    box-sizing: border-box;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;    
+    color: #333333;  
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    font-family: 'Open Sans Medium';
+}
+@font-face {
+    font-family: 'OpenSansBold';
+    src:  url(./fonts/OpenSans-Bold.ttf);  
+}
+.second_page_freedom_content_text_header h3{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'OpenSansBold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+}
+/* понять как объединять */
+.second_page_freedom_content_text_main_secondParagraph h5{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Raleway', sans-serif;   
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;    
+    color: #000000;    
+}
+.second_page_freedom_content_text_main_firstParagraph h5{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Raleway', sans-serif;   
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;    
+    color: #000000;  
+}
+@font-face {
+    font-family: 'OpenSansLight';
+    src:  url(./fonts/OpenSans-Light.ttf);  
+}
+.second_page_freedom_content_text_leftbutton h5{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'OpenSansLight';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;   
+    line-height: 25px;    
+    text-align: center;    
+    color: #FFFFFF;
+    padding-top: 16.5px;   
+    
+}
+.third_page_awesome_text{
+    margin-top: 40px;
+    font-size: 18px;
+    line-height: 21px;
+    align-items: center;
+    text-align: center;
+    color: #86878B;
+    font-family: 'Raleway';
+}
+.title h4{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;   
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;
+    font-family: 'Open Sanz',sans-serif;
+    margin-top: 35px;
+}
+.text h5{
+    font-family: 'Raleway';   
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+}
+.fourth_page_pricingoptions_header h2{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.fourth_page_pricingoptions_text h5{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    /* align-items: center; */
+    text-align: center;
+    color: #86878B;
+}
+.basic h4{
+    padding-top: 15px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.price h3{
+    padding-top: 30px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.free h5{
+    padding-top: 16px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;    
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+}
+.string h5{
+    padding-top: 16px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;    
+    text-align: center;   
+    color: #86878B;
+}
+.fifth_page_pricingoptions_header h2{
+    padding-top: 52px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;    
+    color: #000000;
+}
+.fifth_page_pricingoptions_text h5{
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #86878B;
+    margin-left: 350px;  
+
+}
+.thirst_comment h5{
+    padding-top: 45px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #86878B;
+} 
+.second_comment h5{
+    padding-top: 45px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #86878B;
+    
+} 
+.first_comment h5{
+    padding-top: 45px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #86878B;
+} 
+.name {
+    font-family: 'Raleway Bold';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 21px;
+    align-items: center;
+    color: #000000;
+}
+.profession{
+    margin-top: 25px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 21px;
+    align-items: center;
+    color: #000000;
+}
+.sixth_page_pricingoptions_header h2{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;    
+    text-align: center;    
+    color: #FFFFFF;
+} 
+.sixth_page_pricingoptions_text h5{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;    
+    text-align: center;
+    color: #FFFFFF;
+}
+.sixth_page_pricingoptions_button h4{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 15px;
+}
+.seventh_page_pricingoptions_header h2{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;    
+    text-align: center;    
+    color: #000000;
+    margin-top: 55px;
+
+}
+.seventh_page_pricingoptions_text h5{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #86878B;
+
+}
+.name h2{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    align-items: center;
+    color: #BDBDBD;
+}
+.email h2{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    align-items: center;
+    color: #BDBDBD;
+}
+.password h2{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    align-items: center;
+    color: #BDBDBD;
+}
+.message h2{    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    align-items: center;
+    color: #BDBDBD;
+}
+.button h4{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    padding-top: 14px;   
+
+}
+.footer_text h5{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+
+}
